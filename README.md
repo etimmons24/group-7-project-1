@@ -27,7 +27,7 @@ The digital music landscape is constantly evolving, and understanding how variou
 
 ## Data Sources 
 
-Chartmetric API Documentation: API Docs https://api.chartmetric.com/apidoc (remember to create a link here)
+Chartmetric API Documentation: API Docs https://api.chartmetric.com/apidoc
 
 
 ## Methodology
@@ -79,33 +79,23 @@ Seaborn library
 ### Instructions 
 
 1. Install the required libraries using pip:
-Code: pip install pandas matplotlib seaborn
+`pandas`
+`seaborn`
+`matplotlib`
+`numpy`
 
 2. Obtain a Chartmetric API key and replace the placeholder in the code.
 
-
-## Repository Structure
-
-“README.md”: This file.
-“notebooks/”: Contains Jupyter notebooks for data analysis.
-“data/”: Directory for storing data files.
-“scripts/”: Contains Python scripts for data processing and analysis.
-“presentation/”: Includes presentation templates and final presentation files.
-
-
-## Example Outputs(Optional)
-
-Include examples of charts and graphs generated during the analysis.
 
 
 
 ## Usage
 
-1. Clone the repository to the place you like.
-2. Navigate to the project directory:
-Code: cd group-7-project-1
-3. Run the Jupyter notebook to interact with the data and perform analyses:
-Code: jupyter notebook
+1. Clone the repository to the place you like.  
+2. Navigate to the project directory:  
+`cd group-7-project-1`  
+3. Run the Jupyter notebook to interact with the data and perform analyses:  
+`jupyter notebook`  
 
 
 ## Presentation Links
