@@ -3,12 +3,12 @@
 
 
 ## Group Member
-Alisha Outridge
-Angel Alcantara
-Nico Contreras
-Ezra Timmons
-Daraun Prince
-Xiwu Dai
+Alisha Outridge  
+Angel Alcantara  
+Nico Contreras  
+Ezra Timmons  
+Daraun Prince  
+Xiwu Dai  
 
 ## Project Overview & Goal 
 
@@ -31,7 +31,7 @@ The digital music landscape is constantly evolving, and understanding how variou
 Chartmetric API Documentation: API Docs https://api.chartmetric.com/apidoc (remember to create a link here)
 
 
-##Methodology
+## Methodology
 * Correlation Analysis: To determine the relationship between streaming numbers and chart performance.
 * Sentiment Analysis: To gauge public sentiment towards the artists' music on social media.
 * Data Visualization: Using libraries such as Matplotlib and Seaborn to create informative charts and graphs.
