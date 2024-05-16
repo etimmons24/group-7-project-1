@@ -12,8 +12,7 @@ Xiwu Dai
 
 ## Project Overview & Goal 
 
-This project aims to analyze the career trajectories of two viral artists,  Tyla Laura Seethal and Paul Russell, by examining their streaming and social media activities from 2022 to 2024. Utilizing data provided by Chartmetric, we aim to uncover patterns and correlations that highlight the impact of these activities on their overall music career success. Both artists experienced significant boosts in their careers due to viral hits and have since released additional hits. Our goal is to determine whether these artists are on the path to long-term success or if they risk being "one-hit wonders."
-
+This project aims to analyze the career trajectories of three artists: Tyla Laura Seethal, Paul Russell, and Lisa Loeb, by examining their streaming and social media activities from 2022 to 2024. Utilizing data provided by Chartmetric, we aim to uncover patterns and correlations that highlight the impact of these activities on their overall music career success. Tyla and Paul experienced significant boosts in their careers due to viral hits and have since released additional hits, while Lisa Loeb, having sustained a long career since her pre-social media era hit, provides a contrast in adapting to the evolving digital landscape. Our goal is to determine whether these artists are on the path to long-term success or if they risk being "one-hit wonders."
 
 
 ## Detailed Project Description 
@@ -59,7 +58,9 @@ After Q1 2024, there is a noticeable plateau in engagement across all platforms.
 **CPP Rank Stability**
 According to the CPP Rank, the artist's ranking remains steady after the viral hit, with only a slight decrease observed in May 2024. This indicates that while the viral success helped maintain a higher baseline of popularity, the initial peak was not fully sustained.
 
+### Lisa Loeb:
 
+**Career Longevity and Adaptation:** Lisa Loeb has continually adapted her music style and explored new genres and platforms, maintaining relevance and engagement in an industry transformed by digital media. Her sustained presence and exploration exemplify the importance of adaptability for long-term career success in the music industry.
 ## Future Work
 
 1. Expanding the study to include more artists and additional metrics.
