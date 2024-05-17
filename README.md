@@ -12,18 +12,28 @@ Xiwu Dai
 
 ## Project Overview & Goal 
 
-This project aims to analyze the career trajectories of three artists: Tyla Laura Seethal, Paul Russell, and Lisa Loeb, by examining their streaming and social media activities from 2022 to 2024. Utilizing data provided by Chartmetric, we aim to uncover patterns and correlations that highlight the impact of these activities on their overall music career success. Tyla and Paul experienced significant boosts in their careers due to viral hits and have since released additional hits, while Lisa Loeb, having sustained a long career since her pre-social media era hit, provides a contrast in adapting to the evolving digital landscape. Our goal is to determine whether these artists are on the path to long-term success or if they risk being "one-hit wonders."
-
+This project aims to analyze the career trajectories of three artists: Tyla Laura Seethal, Paul Russell, and Lisa Loeb, by examining their streaming and social media activities from 2022 to 2024. Utilizing data provided by Chartmetric, we seek to uncover patterns and correlations that highlight the impact of these activities on their overall music career success. Tyla and Paul have experienced significant boosts in their careers due to viral hits and have continued to release successful tracks, while Lisa Loeb offers a contrasting perspective with a career that predates social media yet remains dynamic through her use of new platforms and entrepreneurial endeavors. Our goal is to assess whether these newer artists are on the path to long-term success or are they at risk of becoming "one-hit wonders" based on how their streaming and social media performance have changed since their initial viral hits.
 
 ## Detailed Project Description 
 
 ### Background
-Tyla and Paul Russell are two artists who gained significant popularity due to viral hits. This project seeks to understand the impact of their streaming and social media presence on their overall career success, particularly after the release of their follow-up hits.
+Tyla and Paul Russell are two artists who gained significant popularity due to viral hits. This project seeks to understand the impact of their streaming and social media presence on their overall career success, particularly after the release of their follow-up hits. Lisa Loeb is a veteran artist that had a viral hit pre-social media and successfully leverages social media and entreprenurial ventures outside of music to have a long-term sustainable career in music.
+
+By comparing the performance of these artists' careers to an artist like Lisa Loeb and others typically considered "one-hit wonders," we concluded that:
+
+### Adaptation and Diversification: 
+Lisa Loeb's ability to adapt to the digital era and diversify her career through multiple avenues, such as children’s music and her eyewear line, showcases a blueprint for maintaining relevance beyond a single hit. This contrasts with newer artists who may initially flourish on platforms like TikTok but need strategic planning to sustain their careers long-term.
+
+### Engagement and Innovation: 
+Both Tyla and Paul have leveraged their initial viral successes to establish a more consistent presence in the music industry. Their continued engagement with fans through social media and innovative approaches to music releases highlight how modern artists can maintain momentum and avoid the "one-hit wonder" stigma.
+
+### Metrics and Insights: 
+The use of Chartmetric to analyze streaming and social media metrics provides crucial insights into how each artist's strategies align with audience engagement trends. This data-driven approach helps predict potential long-term success and identifies areas where adjustments may enhance career longevity.
+
+In conclusion, our analysis suggests that while viral hits provide a significant boost, the ability to adapt and innovate, coupled with strategic use of analytics, is vital for artists aiming for sustained success in the ever-evolving music industry.
 
 ### Motivation
 The digital music landscape is constantly evolving, and understanding how various factors contribute to an artist's success can provide valuable insights for artists, record labels, and marketers.
-
-
 
 ## Data Sources 
 
