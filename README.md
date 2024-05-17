@@ -21,13 +21,13 @@ Tyla and Paul Russell are two artists who gained significant popularity due to v
 
 By comparing the performance of these artists' careers to an artist like Lisa Loeb and others typically considered "one-hit wonders," we concluded that:
 
-### Adaptation and Diversification: 
+#### Adaptation and Diversification: 
 Lisa Loeb's ability to adapt to the digital era and diversify her career through multiple avenues, such as children’s music and her eyewear line, showcases a blueprint for maintaining relevance beyond a single hit. This contrasts with newer artists who may initially flourish on platforms like TikTok but need strategic planning to sustain their careers long-term.
 
-### Engagement and Innovation: 
+#### Engagement and Innovation: 
 Both Tyla and Paul have leveraged their initial viral successes to establish a more consistent presence in the music industry. Their continued engagement with fans through social media and innovative approaches to music releases highlight how modern artists can maintain momentum and avoid the "one-hit wonder" stigma.
 
-### Metrics and Insights: 
+#### Metrics and Insights: 
 The use of Chartmetric to analyze streaming and social media metrics provides crucial insights into how each artist's strategies align with audience engagement trends. This data-driven approach helps predict potential long-term success and identifies areas where adjustments may enhance career longevity.
 
 In conclusion, our analysis suggests that while viral hits provide a significant boost, the ability to adapt and innovate, coupled with strategic use of analytics, is vital for artists aiming for sustained success in the ever-evolving music industry.
